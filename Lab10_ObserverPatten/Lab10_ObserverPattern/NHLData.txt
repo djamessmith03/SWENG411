@@ -1,0 +1,30 @@
+Montreal Canadiens#12#10#2#0#45#23
+Dallas Stars#11#9#2#0#40#30
+St. Louis Blues#11#8#2#1#30#23
+Washington Capitals#10#8#2#0#34#23
+Los Angeles Kings#10#7#3#0#24#21
+Minnesota Wild	#11#7#2#2#35#32
+Nashville Predators#10#7#1#2#28#21
+New York Rangers#11#7#2#2#24#20
+Pittsburgh Penguins#11#7#4#0#35#20
+Winnipeg Jets#11#7#3#1#39#28
+Boston Bruins#10#6#3#1#24#31
+Chicago Blackhawks#11#6#5#0#26#24
+New Jersey Devils#11#6#4#1#35#28
+New York Islanders#11#6#2#3#30#27
+Arizona Coyotes#11#5#5#1#30#28
+Carolina Hurricanes#11#5#6#0#23#32
+Detroit Red Wings#11#5#5#1#28#30
+Florida Panthers#11#5#4#2#33#30
+Ottawa Senators#11#5#4#2#32#23
+San Jose Sharks#10#5#5#0#29#34
+Tampa Bay Lightning#12#5#5#2#31#30
+Vancouver Canucks#11#5#2#4#25#25
+Buffalo Sabres#11#4#7#0#32#34
+Edmonton Oilers#12#4#8#0#20#39
+Philadelphia Flyers#10#4#4#2#27#29
+Calgary Flames#12#3#8#1#27#49
+Colorado Avalanche#10#3#6#1#25#33
+Columbus Blue Jackets#12#2#10#0#20#46
+Anaheim Ducks#10#1#7#2#10#26
+Toronto Maple Leafs#10#1#7#2#10#33
