@@ -9,6 +9,6 @@ import java.util.List;
 
 public interface HockeyFan  {
     
-    public void notifyFan(List <TeamData> td);
+    public List<TeamData> notifyFan(List <TeamData> td);
     
 }

@@ -13,12 +13,12 @@ import java.util.List;
  */
 public class PittsburghPensFan implements HockeyFan {
 
-    TeamData teamData;
+    List<TeamData> teamData;
     
     @Override
-    public void notifyFan(List<TeamData> td) {
+    public List<TeamData> notifyFan(List<TeamData> td) {
         
-        
+        return teamData;
         
     }
     
